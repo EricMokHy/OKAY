@@ -1,2 +1,0 @@
-# OKAY
-test assignment
